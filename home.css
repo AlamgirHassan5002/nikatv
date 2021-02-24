@@ -1,0 +1,284 @@
+@font-face {
+    font-family: 'varela round';
+    src: url(VarelaRound-Regular.ttf);
+    
+  }
+#img1 {
+    width: 65px;
+    height: 55px;
+    padding: 0%1%;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: #8080ff;
+}
+
+.links {
+    float: right;
+    list-style: none;
+}
+
+.links li {
+    display: inline;
+}
+
+#logo {
+    height: 20px;
+    width: 28px;
+    
+}
+
+.content-catagory {
+    font-family: 'varela round', sans-serif;
+    color: #808080;
+    font-size: large;
+}
+
+#btn {
+    background-color: black;
+}
+
+.content-heading {
+    font-family: 'varela round', Arial, sans-serif;;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.col-md-12 .content-heading,
+.col-md-12 .content-catagory {
+    text-align: center;
+}
+
+.col-md-12 #btn,
+.col-sm-12 #btn {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#stores-logo {
+    height: 46px;
+    width: 155px;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+#stores-logo2 {
+    height: 70px;
+    width: 130px;
+    margin-top: auto;
+}
+
+.col-lg-6 #catagory-pic,
+.col-md-12 #catagory-pic {
+    height: 530px;
+    width: 550px;
+}
+
+#stores-logo1 {
+    height: 45px;
+    width: 135px;
+    margin-left: auto;
+  margin-right: auto;
+}
+
+#stores-logo3 {
+    height: 140px;
+    width: 130px;
+}
+
+#btn:hover {
+    background-color: #4d4dff;
+    border-style: none;
+}
+
+.list1 {
+    display: inline;
+    list-style: none;
+}
+.list2 {
+    display: inline;
+    list-style: none;
+}
+
+.col-sm-12 #stores-logo
+{
+    width: 100px;
+    display: inline;
+}
+.col-sm-12 #stores-logo1 {
+    width: 150px;
+    display: inline;
+}
+
+.col-sm-12 #catagory-pic {
+    width: 470px;
+    display: inline;
+}
+
+.container-fluid {
+    background-color: #e6e6e6;
+}
+
+.container-fluid .content-heading {
+    color: #999999;
+    text-align: center;
+}
+
+#support-imgs {
+    height: 90px;
+    padding: 4%5%;
+    width: 200px;
+}
+#support-imgs4 {
+    height: 100px;
+    width: 200px;
+}
+#support-imgs1 {
+    height: 100px;
+    width: 200px;
+}
+#support-imgs3 {
+    height: 100px;
+    width: 200px;
+}
+#support-imgs2 {
+    height: 90px;
+    width: 200px;
+}
+.col-10 h6 {
+    text-align: center;
+}
+
+.col-10 p {
+    text-align: center;
+}
+
+.col-10 img {
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.services .container button {
+    color: white;
+}
+
+.btncheck {
+    text-align: center;
+}
+
+.services .content-heading {
+    text-align: center;
+}
+
+#btn2 {
+    color: black;
+}
+
+#btn2:hover {
+    background-color: #668cff;
+    color: white;
+    border-style: none;
+}
+
+.channel-catagories {
+    background-color: #cccccc;
+}
+
+.channel-catagories .content-heading {
+    text-align: center;
+}
+.feature-pic1
+{
+    height: 430px;
+    width: 420px;
+    margin: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.col-lg-6 .feature-pic,
+.col-md-12 .feature-pic {
+    height: 550px;
+    width: 420px;
+    margin: auto;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.col-sm-12 .feature-pic {
+    display: none;
+}
+
+.card-body a {
+    color: white;
+}
+/*#card1 {
+    height: 280px;
+}*/
+.card {
+    box-shadow: black;
+    max-height: 160px;
+}
+
+#chart-pic {
+    width: 30px;
+    height: 25px;
+    margin: 0%1%;
+}
+
+#chart-pic1 {
+    width: 30px;
+    height: 25px;
+    margin: 0%1%;
+    background-color: white;
+}
+
+.dlinks .container-fluid {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.dlinks .heading {
+    font-family: 'varela round', Arial, sans-serif;
+    font-weight: bolder;
+}
+
+.dlinks .heading1 {
+    font-family: 'varela round', Arial, sans-serif;
+}
+
+#btn3 {
+    color: white;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+}
+
+#btn3:hover {
+    border-style: none;
+    color: black;
+    background-color: white;
+    font-weight: bold;
+}
+
+.dlinks hr {
+    color: white;
+}
+
+.footer .container-fluid {
+    background-color: #e6e6e6;
+    color: black;
+    text-align: center;
+}
+
+.footer .container-fluid .content-heading {
+    color: black;
+}
+h1,h2,h3,h4,h5,h6,p
+{
+    font-family: 'varela round', Arial, sans-serif;
+}
