@@ -41,7 +41,7 @@ a:hover {
 #btn {
     background-color: black;
     
-    font-size: medium;
+    display: inline;
 }
 
 .content-heading {
